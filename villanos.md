@@ -2,4 +2,3 @@
 
 * Pepe
 * Ganga
-* Capitán America
